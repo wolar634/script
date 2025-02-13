@@ -38,7 +38,7 @@ moonsec:Obfuscate(function()
     sendWebhook()
 
     -- Загружаем UI с GitHub
-    local ui = loadstring(game:HttpGet("https://raw.githubusercontent.com/ТВОЙ_АККАУНТ/РЕПОЗИТОРИЙ/main/main.lua", true))()
+    local ui = loadstring(game:HttpGet("https://raw.githubusercontent.com/wolar634/script/refs/heads/main/main.lua", true))()
 
     -- Создаём флаг для состояния меню
     local menuOpen = true 

